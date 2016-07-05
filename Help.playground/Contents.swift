@@ -8,6 +8,15 @@ print("\(name)... \(name)... \(uppercaseName)! WAKE UP!")
 
 let lowercaseName = name.lowercaseString
 
-let name2 = "sasey johns"
 
-let capitalName = name2.uppercaseString
+
+var name2 = "sasey johns"
+
+name2.uppercaseString
+
+var name3 = "GRADMA IS ANGRY!!!"
+
+name3.lowercaseString
+
+
+
